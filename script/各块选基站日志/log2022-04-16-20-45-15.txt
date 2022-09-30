@@ -1,0 +1,243 @@
+当前时间为2022-04-16 20:45:15
+eps:30,min_Pts:60
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3:
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block1.txt:
+-->包含277个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block10.txt:
+-->包含1366个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block11.txt:
+-->包含959个点
+-->可分为2类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block12.txt:
+-->包含1227个点
+-->可分为2类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block13.txt:
+-->包含3081个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block14.txt:
+-->包含187个点
+-->可分为2类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block15.txt:
+-->包含3675个点
+-->可分为2类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block16.txt:
+-->包含576个点
+-->可分为4类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block17.txt:
+-->包含996个点
+-->可分为5类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block18.txt:
+-->包含2882个点
+-->可分为4类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block19.txt:
+-->包含3544个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block2.txt:
+-->包含96个点
+-->可分为2类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block20.txt:
+-->包含4714个点
+-->可分为2类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block21.txt:
+-->包含1020个点
+-->可分为4类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block22.txt:
+-->包含6997个点
+-->可分为5类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block23.txt:
+-->包含8470个点
+-->可分为9类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block24.txt:
+-->包含2714个点
+-->可分为5类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block25.txt:
+-->包含1454个点
+-->可分为2类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block26.txt:
+-->包含1301个点
+-->可分为1类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block27.txt:
+-->包含1445个点
+-->可分为2类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block28.txt:
+-->包含2620个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block29.txt:
+-->包含8097个点
+-->可分为5类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block3.txt:
+-->包含423个点
+-->可分为2类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block30.txt:
+-->包含10489个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block31.txt:
+-->包含4138个点
+-->可分为6类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block32.txt:
+-->包含4703个点
+-->可分为6类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block33.txt:
+-->包含1146个点
+-->可分为5类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block34.txt:
+-->包含6095个点
+-->可分为7类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block35.txt:
+-->包含691个点
+-->可分为4类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block36.txt:
+-->包含1916个点
+-->可分为7类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block37.txt:
+-->包含2685个点
+-->可分为4类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block38.txt:
+-->包含1185个点
+-->可分为6类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block39.txt:
+-->包含5086个点
+-->可分为9类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block4.txt:
+-->包含561个点
+-->可分为4类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block40.txt:
+-->包含535个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block41.txt:
+-->包含3418个点
+-->可分为5类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block42.txt:
+-->包含1081个点
+-->可分为7类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block43.txt:
+-->包含479个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block44.txt:
+-->包含386个点
+-->可分为4类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block45.txt:
+-->包含2132个点
+-->可分为7类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block46.txt:
+-->包含530个点
+-->可分为2类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block47.txt:
+-->包含2299个点
+-->可分为7类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block48.txt:
+-->包含783个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block49.txt:
+-->包含1436个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block5.txt:
+-->包含277个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block50.txt:
+-->包含1522个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block51.txt:
+-->包含9001个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block52.txt:
+-->包含719个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block53.txt:
+-->包含3607个点
+-->可分为2类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block54.txt:
+-->包含1990个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block55.txt:
+-->包含7571个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block56.txt:
+-->包含732个点
+-->可分为4类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block57.txt:
+-->包含1797个点
+-->可分为6类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block58.txt:
+-->包含896个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block59.txt:
+-->包含456个点
+-->可分为3类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block6.txt:
+-->包含2977个点
+-->可分为2类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block60.txt:
+-->包含108个点
+-->可分为1类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block7.txt:
+-->包含2995个点
+-->可分为6类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block8.txt:
+-->包含1742个点
+-->可分为2类
+---------------------
+文件D:\数学建模\MathorCup D\MathorCup D\解决问题\3\block9.txt:
+-->包含3200个点
+-->可分为2类
+---------------------
