@@ -2,4 +2,10 @@
 __pycache__/
 论文/
 *.txt
-*.png
+分块.py
+分块绘图.py
+业务量筛选.py
+覆盖点.py
+基站位置可视化.py
+不能放基站.png
+Figure_1.png
